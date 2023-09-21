@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [Click here](https://dalu-movieBox.vercel.app/)
+- Live Site URL: [Click here](https://hng-task3-seven.vercel.app/)
 
 ### Built with
 
@@ -22,4 +22,4 @@
 
 ## Author
 
-- Twitter - [@Dhevine_0X](https://www.twitter.com/Dhevine_0X)
+- Levis Ngigi
